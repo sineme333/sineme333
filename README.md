@@ -6,8 +6,10 @@ def a(s):
     h = "Sineme333"
     j = "SaaS  hosted API"
     k = "Learn"
-    I_learned = "Git, Github, Python, Markdown, Visual Studio Code, Wordpress, Gmail, Telegram, Steam, Windows, AI searching, Youtube, Google"
-    Most_to_learn = "FastAPI, DB, Auth, Docker, Deploy, Static analysis, Code models, Pipeline, Dashboard + billing tests, MVP launch & outreach"
+    I_learned = "Git, Github, Python, Markdown, Visual Studio Code, Wordpress,/
+    Gmail, Telegram, Steam, Windows, AI searching, Youtube, Google"
+    Most_to_learn = "FastAPI, DB, Auth, Docker, Deploy, Static analysis, Code models,/
+    Pipeline, Dashboard + billing tests, MVP launch & outreach"
     l = "Gain experience"
     z = "Collect money"
     c = "Good luck"
